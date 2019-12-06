@@ -1,0 +1,19 @@
+{
+"world": [
+{"parent": "Russia", "name": "Moscow"},
+{"parent": "Russia", "name": "Saint Petersburg"},
+{"parent": "Russia", "name": "Vladivostok "},
+{"parent": "Russia", "name": "Yekaterinburg "},
+{"parent": "Russia", "name": "Samara "},
+{"parent": "Canada", "name": "Toronto"},
+{"parent": "Canada", "name": "Vancouver"},
+{"parent": "Canada", "name": "Montreal"},
+{"parent": "United States", "name": "New York"},
+{"parent": "United States", "name": "New Jersey"},
+{"parent": "United States", "name": "Califonia"},
+{"parent": "United States", "name": "Washington DC"},
+{"parent": "China", "name": "Shanghai "},
+{"parent": "China", "name": "Beijing "},
+{"parent": "China", "name": "Shenzhen "}
+]
+}
